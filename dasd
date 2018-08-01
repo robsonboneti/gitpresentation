@@ -1,0 +1,67 @@
+[33mcommit 97cb3537a969e39976af3540a72a0e443f845f0b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: fb3e259 108079f
+Author: Robson Soares Boneti <robsonsboneti@gmail.com>
+Date:   Tue Jul 31 21:19:38 2018 -0300
+
+    Merge branch 'feature3'
+
+[33mcommit fb3e25963578c2a4d860943048b06b1679e76166[m
+Author: Robson Soares Boneti <robsonsboneti@gmail.com>
+Date:   Tue Jul 31 21:18:41 2018 -0300
+
+    Adicionado o arquivo g.txt
+
+[33mcommit 108079f33922849b129a93ac79ff93d458e3a3ca[m[33m ([m[1;32mfeature3[m[33m)[m
+Author: Robson Soares Boneti <robsonsboneti@gmail.com>
+Date:   Tue Jul 31 21:16:21 2018 -0300
+
+    Adicionado o arquivo g.txt
+
+[33mcommit 1f1e0406d1cd19cf7c3165bd181dd9890e754395[m
+Merge: 4ec8002 3780643
+Author: Robson Soares Boneti <robsonsboneti@gmail.com>
+Date:   Tue Jul 31 21:11:35 2018 -0300
+
+    Merge branch 'feature2'
+
+[33mcommit 4ec8002cee13230d01e3b75dfcf9e6cbc358a1ec[m
+Author: Robson Soares Boneti <robsonsboneti@gmail.com>
+Date:   Tue Jul 31 21:08:53 2018 -0300
+
+    Adicionado o arquivo f.txt
+
+[33mcommit 37806433c991937c9d5dda861fbaa99cacd6519e[m
+Author: Robson Soares Boneti <robsonsboneti@gmail.com>
+Date:   Tue Jul 31 21:06:07 2018 -0300
+
+    Adicionado o arquivo e.txt
+
+[33mcommit ea677abd7df5698b800eec0e980601cc6ba01d62[m
+Author: Robson Soares Boneti <robsonsboneti@gmail.com>
+Date:   Tue Jul 31 20:57:54 2018 -0300
+
+    Adicionado o arquivo d.txt
+
+[33mcommit c70bb2ba235d1721e7525033f9fa8040568078e7[m
+Author: Robson Soares Boneti <robsonsboneti@gmail.com>
+Date:   Mon Jul 30 21:18:10 2018 -0300
+
+    Alterado o nome do arquivo c.txt para c2.txt
+
+[33mcommit 45c952b7d81b6f2c0261084e1bbc2b03c1d5650e[m
+Author: Robson Soares Boneti <robsonsboneti@gmail.com>
+Date:   Mon Jul 30 21:15:02 2018 -0300
+
+    Alteração do arquivo c.txt
+
+[33mcommit 5614fac429040c0da52c556b99e1f8e9be08daa2[m
+Author: Robson Soares Boneti <robsonsboneti@gmail.com>
+Date:   Mon Jul 30 21:11:05 2018 -0300
+
+    Adicionado o arquivo c.txt
+
+[33mcommit 77586dc2e1760e52ce19e997824c4280fac7f5ac[m
+Author: Robson Soares Boneti <robsonsboneti@gmail.com>
+Date:   Mon Jul 30 21:08:06 2018 -0300
+
+    Arquivos a.txt e b.txt
